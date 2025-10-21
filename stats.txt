@@ -1,0 +1,4 @@
+The sum of the numbers is: 55
+The lowest number is: 1
+The highest number is: 10
+The average of the numbers is: 5.5
